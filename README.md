@@ -6,19 +6,19 @@
 
 -   Age: 26
 
-Location: Bosnia and Herzegowina
+-   Location: Bosnia and Herzegowina
 
-Languages: German ( C1 OSD ), English, Bosnian/Serbian/Croatian
+-   Languages: German ( C1 OSD ), English, Bosnian/Serbian/Croatian
 
-Current Education: Computer Science Degree
+-   Current Education: Computer Science Degree
 
-Currently Employed: Customer Support
+-   Currently Employed: Customer Support
 
-Working on: Becoming a Sysem Administrator
+-   Working on: Becoming a Sysem Administrator
 
-IT Experience: Web Developer ( Laravel )
+-   IT Experience: Computer Repair Technician, Web Developer ( Laravel )
 
-Hobbys: Workout, Tryhackme
+-   Hobbys: Workout, Tryhackme
 
 <img src="https://tryhackme-badges.s3.amazonaws.com/aussenseiter.png" alt="TryHackMe">
 
