@@ -22,7 +22,7 @@ Hobbys: Workout, Tryhackme
 
 <img src="https://tryhackme-badges.s3.amazonaws.com/aussenseiter.png" alt="TryHackMe">
 
-### OS
+## OS
 
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
 <img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white">
