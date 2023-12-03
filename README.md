@@ -2,24 +2,6 @@
 
 ![](https://komarev.com/ghpvc/?username=aussenseiter13&style=for-the-badge)
 
-## About me
-
--   Age: 26
-
--   Location: Bosnia and Herzegowina
-
--   Languages: German ( C1 OSD ), English, Bosnian/Serbian/Croatian
-
--   Current Education: Computer Science Degree
-
--   Currently Employed: Customer Support
-
--   Working on: Becoming a Sysem Administrator
-
--   IT Experience: Computer Repair Technician, Web Developer ( Laravel )
-
--   Hobbys: Workout, Tryhackme
-
 <img src="https://tryhackme-badges.s3.amazonaws.com/aussenseiter.png" alt="TryHackMe">
 
 ## OS
