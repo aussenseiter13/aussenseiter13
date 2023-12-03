@@ -1,8 +1,8 @@
 # Welcome to my profile 👋
 
-![](https://komarev.com/ghpvc/?username=aussenseiter13&style=for-the-badge)
-
 <img src="https://tryhackme-badges.s3.amazonaws.com/aussenseiter.png" alt="TryHackMe">
+
+![](https://komarev.com/ghpvc/?username=aussenseiter13&style=for-the-badge)
 
 ## OS
 
